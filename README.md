@@ -7,7 +7,7 @@ Uma **Máquina de Mealy** é um modelo computacional (autômato finito com saíd
 - Exibir as tabelas de transição (δ) e de saída (λ) formatadas no terminal
 - Gerar automaticamente o diagrama de estados como imagem PNG
 
-Desenvolvido por **João Victor Pereira Couto** — RA: 24.00115-5
+Desenvolvido por **João Victor Pereira Couto**
 
 ---
 
