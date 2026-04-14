@@ -1,4 +1,4 @@
-"""João Victor Pereira Couto  RA: 24.00115-5"""
+"""João Victor Pereira Couto"""
 
 import json                              # Manipulação de arquivos JSON
 import matplotlib                        # Backend não-interativo (sem display gráfico necessário)
